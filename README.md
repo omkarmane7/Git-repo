@@ -1,2 +1,3 @@
 # Git-repo
-to learn 
+
+First time to learn Git Commit and 
